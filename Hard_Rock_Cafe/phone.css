@@ -1,0 +1,110 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    font-size: 6px;
+}
+#navbar .item{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    font-size: 16px;
+}
+
+/* Home Section */
+#home{
+    width: auto;
+    padding: 2px;
+    margin: auto;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+#home .btn{
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 40px;
+    width: 200px;
+}
+#home h1{
+    font-size: 36px;
+    margin-top: 50px;
+    padding-top: 39px;
+}
+/* Services */
+.servicecont{
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    width: 200%;
+    margin: 50px;
+    padding: 5px;
+}
+
+#services{
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    width: 200%;
+    margin: 50px;
+    padding: 5px;
+}
+.h1center{
+    margin-top: 212px;
+    padding: 4px;
+}
+.box1{
+    margin-top: -25px;
+    padding: 5px;
+}
+.box2{
+    margin-top: 47px;
+    padding: 5px;
+}
+.box3{
+    margin-top: 47px;
+    padding: 5px;
+}
+
+/* Client Section */
+#clientsec{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.client{
+    flex-direction: column;
+    position: absolute;
+    height: 400%;
+    width: 214%;
+    margin: -537px 47px;
+}
+
+/* Contacts */
+.contactus{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    margin-top: 1766px;
+}
+.contactbox form{
+    width: 315px;
+    height: 550px;
+
+}
+.contactbox .form .btn {
+    color: wheat;
+    background-color: black;
+    width: auto;
+    text-align: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+/* Footer */
+footer{
+    margin-top: 3000px;
+}
+
